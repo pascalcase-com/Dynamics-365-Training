@@ -1,11 +1,11 @@
-# Dynamics-365-Training
-Dynamics 365 Training
+# Repo for samples discussed in Dynamics 365 Training of Dynamics Labs
+## Dynamics 365 Training
 
-In this fast paced world you need to be more paced being an expert with cutting-edge technologies. Yes we are talking about [https://www.dynamicslabs.io](Dynamics 365) which combines both CRM and ERP Applications.  
+In this fast paced world you need to be more paced being an expert with cutting-edge technologies. Yes we are talking about [Dynamics 365 training](https://www.dynamicslabs.io) which combines both CRM and ERP Applications.  
 
-Just a click away dynamicslabs.io to know more insights of how to start your career and become an expert. 
+Just a click away https://www.dynamicslabs.io to know more insights of how to start your career and become an expert. 
 
-Dynamicslabs is designed to help you and your customer grow progressively by learning the courses we offer. While taking up the course you will get a chance to join more than 11000+ students and specialists from all over the world who have taken up our courses. Our expert trainer takes you through an innovative approach of learning the courses from basics to an expert level sharing the real time experiences.  
+The training program is designed to help you to grow progressively. While taking up the course,  you will get a chance to join more than 11000+ students and specialists from all over the world who have taken up our courses. Our expert trainer takes you through an innovative approach of learning Dynamics 365 and Power Apps from basics to an expert level sharing the real time experiences.  
 
 Why Dynamics Labs (https://www.dynamicslabs.io)?
 ----------------------	
